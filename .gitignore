@@ -1,0 +1,7 @@
+*.mp4
+*.mkv
+*.wav
+_concat_list.txt
+stills/
+__pycache__/
+.DS_Store
