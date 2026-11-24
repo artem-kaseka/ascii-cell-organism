@@ -2,7 +2,12 @@
 
 An original, self-contained full-viewport ASCII organism rendered on HTML5 Canvas 2D with zero external dependencies or frameworks.
 
-**Live demo:** https://artem-kaseka.github.io/ascii-cell-organism/
+**Live demo:** https://artem-kaseka.github.io/ascii-cell-organism/  
+**Full 1080p60 video (with procedural audio):** [`ascii-cell-organism-1080p60.mp4`](https://github.com/artem-kaseka/ascii-cell-organism/releases/download/v1.0.0/ascii-cell-organism-1080p60.mp4)
+
+[![SOMATYPE // 01 — 1080p60 Demo Preview](./demo-preview.webp)](https://github.com/artem-kaseka/ascii-cell-organism/releases/download/v1.0.0/ascii-cell-organism-1080p60.mp4)
+
+*(Click the preview above to watch or download the full 15s 1920×1080 60fps H.264 + 48 kHz stereo MP4.)*
 
 ## Architecture
 
